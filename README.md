@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Facundo Ulises Vassallo</h1>
-<h3 align="center">A passionate front end developer from Argentina</h3>
+<h3 align="center">I am a future designer and developer, passionate about web design. I enjoy developing simple, clean and elegant websites that provide real value to the end user. I seek to continue learning and improving to do an exceptional job. Delivering work on time and on budget that meets client requirements is my motto. I am from Argentina</h3>
 
 - 🔭 I’m currently working on **Public Attention**
 
